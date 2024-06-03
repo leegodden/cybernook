@@ -1,0 +1,11 @@
+.product_image {
+    width: 100%;
+}
+@media(min-width: 768px){
+    .product_image{
+        width: 300px;
+    }
+}
+.purchase_image{
+    width: 200px;
+}
